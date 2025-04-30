@@ -1,0 +1,6 @@
+@AcunmedyaCheferProject_HostAddress = http://localhost:5137
+
+GET {{AcunmedyaCheferProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
