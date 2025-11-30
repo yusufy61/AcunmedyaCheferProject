@@ -64,3 +64,8 @@ Swagger - Ana Fonksiyonlar
 <img width="1911" height="986" alt="image" src="https://github.com/user-attachments/assets/21a005ab-726d-4058-9d86-c69dcd930d50" />
 
 Swagger - Category işlemleri
+<img width="1414" height="800" alt="image" src="https://github.com/user-attachments/assets/90d01ea1-6b53-4719-acc2-dde8ac80153a" />
+
+<img width="1524" height="917" alt="image" src="https://github.com/user-attachments/assets/d3864180-fd16-4a40-881b-0175e3b1ca97" />
+
+<img width="1515" height="816" alt="image" src="https://github.com/user-attachments/assets/e6acb504-24e5-4724-8c7c-cc32e38a45f1" />
