@@ -1,4 +1,4 @@
-# 📚 Chefer - Yemek Kategorileri ve Ürün Yönetim Sistemi
+# 📚 Chefer - Yemek ve Ürün Yönetim Sistemi
 Bu proje, ASP.NET Core kullanılarak geliştirilmiş tam stack bir web uygulamasıdır. Backend API ve Frontend Web UI içeren iki katmanlı mimari ile yemek kategorileri ve ürünlerini yönetmek için tasarlanmıştır.
 
 ---
