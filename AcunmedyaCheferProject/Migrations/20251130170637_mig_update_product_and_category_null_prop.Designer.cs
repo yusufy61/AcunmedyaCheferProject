@@ -3,6 +3,7 @@ using AcunmedyaCheferProject.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AcunmedyaCheferProject.Migrations
 {
     [DbContext(typeof(CheferContext))]
-    partial class CheferContextModelSnapshot : ModelSnapshot
+    [Migration("20251130170637_mig_update_product_and_category_null_prop")]
+    partial class mig_update_product_and_category_null_prop
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

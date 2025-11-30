@@ -26,6 +26,7 @@ namespace AcunmedyaCheferProject.Controllers
             return Ok(categories);
         }
 
+
         [HttpPost]
         public IActionResult Create(CreateCategoryDTO createCategoryDTO)
         {
